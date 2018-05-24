@@ -1,30 +1,26 @@
 ---
 name: Appery.io
-x-slug: apperyio
-description: Rapidly build mobile apps with our enterprise cloud-based app builder
-  and MBaaS. Try our HTML5, iPhone, Windows Phone, and Android app creator | Appery.io
-image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28290-docs-appery-io.jpg
+x-slug: appery-io
+description: Appery.io is a rapid development, integration and deployment platform
+  for delivering cross-device apps in the enterprise. It combines enterprise-grade
+  integration middleware with a browser-based rapid development environment and mobile
+  backend services to accelerate enterprise mobilization. Appery.io enables developers
+  and business analysts to rapidly create and run apps that help businesses of all
+  sizes increase revenues and improve productivity.
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/appery-io-logo.svg
 x-kinRank: "7"
-x-alexaRank: "147452"
+x-alexaRank: ""
 tags: Appery.io
-created: "2018-05-22"
-modified: "2018-05-22"
-url: https://raw.githubusercontent.com/streamdata-gallery-organizations/appery-io/master/_listings/apperyio/apis.md
+created: "2018-05-24"
+modified: "2018-05-24"
+url: https://raw.githubusercontent.com/streamdata-gallery-organizations/appery-io/master/_listings/appery-io/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
-- type: x-crunchbase
-  url: https://crunchbase.com/organization/appery
-- type: x-email
-  url: support@appery.io
-- type: x-email
-  url: enterprise@appery.io
-- type: x-email
-  url: hello@appery.io
 - type: x-twitter
   url: https://twitter.com/apperyio
 - type: x-website
-  url: https://docs.appery.io
+  url: https://appery.io/
 include: []
 maintainers:
 - FN: Kin Lane
